@@ -1,0 +1,15 @@
+#actionbar { height: 30px;}
+#actionbar a { font-size: 8pt; text-decoration: none; color: black; border-style: solid; display: block; float: left; border-width: 1px; padding: 3px; height: 19px; margin: 1px; border-color: #aaa; width: 80px; }
+#actionbar a:hover { color: red; }
+
+#crm_actionbar {text-align:center; height: 30px; padding-left:0px; padding-top:10px;}
+#crm_actionbar a { color:black; border-style: solid; display: block; float: left; border-width: 1px; padding: 5px; margin: 1px; border-color: #aaa; width: 80px;}
+#crm_actionbar a:hover { color: red; }
+
+#filter_table { display: none; }
+
+.bigger { font-size:1.2em; }
+
+label { font-size:1.2em; text-align: left; }
+
+form { padding-top: 20px; }

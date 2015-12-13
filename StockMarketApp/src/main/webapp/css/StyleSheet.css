@@ -1,0 +1,257 @@
+<<<<<<< HEAD
+﻿
+.textBox {
+	border:1px solid #CCCCCC;
+	height: 18px;
+	width: 230px;
+	padding:2px;
+	margin:2px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+}
+
+
+
+
+.loginHeader {
+	/*background-color:#8497bf;*/
+	background:url(img/login_hdr.gif) repeat-x;
+	height:27px;
+	font-size:20px;
+	padding: 0 0 0 15px;
+	color:#002543;
+}
+
+.loginText {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+}
+.loginText a {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+	text-decoration:none;
+}
+.loginText strong {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:15px;
+	/*text-decoration:underline;*/
+	 text-transform:uppercase;
+}
+
+.loginText a:hover {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+	text-decoration:underline;
+}
+/*.inputText {
+	background:#ffffff;
+	color:#000000;
+	border:1px solid #000000;
+	width:160px;
+	font-family:Calibri ;
+	font-size:14px;
+}*/
+.submitButton {
+	background:url(../img/submit.gif) no-repeat;
+	/*background-color:#8497bf;*/
+	padding: 3px 8px;
+	color:#002543;
+	font-weight:bold;
+	text-align:center;
+	border:0;
+	width:77px;
+	height:26px;
+	cursor:pointer;
+}
+
+
+.error{
+	color:#FF0000;
+	font-weight:bold;
+}
+.calenderIco{
+	background:url(img/CalendarIcon.png) no-repeat;
+	height:40px;
+	width:30px;
+}
+
+.validation-passed {
+background-color:#FFFFFF;
+border:1px solid #66CC66;
+}
+
+.validation-failed { /* for textboxes, textareas, passwords */
+border:1px dashed #F33;
+background-color:#FCC;
+}
+
+.validation-failed-cr { /* for checkboxes and radios */
+
+}
+
+.validation-failed-sel { /* for selects */
+
+}
+
+.validation-passed { /* for textboxes, textareas, passwords */
+border:1px solid #6C6;
+background-color:#FFFFFF;
+}
+
+.validation-passed-cr { /* for checkboxes and radios */
+
+}
+
+.validation-passed-sel { /* for selects */
+
+}
+
+.loginTableborder {
+border:1px solid #999999;
+}
+=======
+﻿
+.textBox {
+	border:1px solid #CCCCCC;
+	height: 18px;
+	width: 230px;
+	padding:2px;
+	margin:2px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+}
+
+
+
+
+.loginHeader {
+	/*background-color:#8497bf;*/
+	background:url(img/login_hdr.gif) repeat-x;
+	height:27px;
+	font-size:20px;
+	padding: 0 0 0 15px;
+	color:#002543;
+}
+
+.loginText {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+}
+.loginText a {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+	text-decoration:none;
+}
+.loginText strong {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:15px;
+	/*text-decoration:underline;*/
+	 text-transform:uppercase;
+}
+
+.loginText a:hover {
+	width:auto;
+	padding:2px 5px;
+	font-weight:bold;
+	color:#666666;
+	font-family:Calibri ;
+	font-size:14px;
+	text-decoration:underline;
+}
+/*.inputText {
+	background:#ffffff;
+	color:#000000;
+	border:1px solid #000000;
+	width:160px;
+	font-family:Calibri ;
+	font-size:14px;
+}*/
+.submitButton {
+	background:url(../img/submit.gif) no-repeat;
+	/*background-color:#8497bf;*/
+	padding: 3px 8px;
+	color:#002543;
+	font-weight:bold;
+	text-align:center;
+	border:0;
+	width:77px;
+	height:26px;
+	cursor:pointer;
+}
+
+
+.error{
+	color:#FF0000;
+	font-weight:bold;
+}
+.calenderIco{
+	background:url(img/CalendarIcon.png) no-repeat;
+	height:40px;
+	width:30px;
+}
+
+.validation-passed {
+background-color:#FFFFFF;
+border:1px solid #66CC66;
+}
+
+.validation-failed { /* for textboxes, textareas, passwords */
+border:1px dashed #F33;
+background-color:#FCC;
+}
+
+.validation-failed-cr { /* for checkboxes and radios */
+
+}
+
+.validation-failed-sel { /* for selects */
+
+}
+
+.validation-passed { /* for textboxes, textareas, passwords */
+border:1px solid #6C6;
+background-color:#FFFFFF;
+}
+
+.validation-passed-cr { /* for checkboxes and radios */
+
+}
+
+.validation-passed-sel { /* for selects */
+
+}
+
+.loginTableborder {
+border:1px solid #999999;
+}
+>>>>>>> c68361b10c01822486329d0ecd4edf9d885d62b6
